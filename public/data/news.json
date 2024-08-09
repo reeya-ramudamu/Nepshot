@@ -1,0 +1,332 @@
+{
+    "data": [
+      {
+        "id": 68,
+        "newsDate": "2024-07-11T16:42:15+05:45",
+        "category": "Health",
+        "imageFrom": "",
+        "image": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/increasing-dengu-cases-in-kailali-07-11-2024.png",
+        "imageUrl": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/increasing-dengu-cases-in-kailali-07-11-2024.png",
+        "shortDescription": "गत वर्षको तुलनामा यस वर्ष कैलालीमा डेङ्गीका बिरामी वृद्धि भएका छन्  । यसवर्ष एक हजार एक जना डेङ्गी सङ्क्रमित  भएका  छन् । विसं २०८० मा डेङ्गीबाट कैलालीमा तीन जनाको मृत्यु भएको थियो । कैलाली डेङ्गीको उच्च जोखिममा रहेका १० जिल्लामा नवौँ स्थानमा पर्छ ।",
+        "slug": "increasing-dengu-cases-in-kailali",
+        "title": "कैलालीमा एक हजार बढी डेङ्गीका बिरामी",
+        "is_image_public": true,
+        "is_trending": false,
+        "topic": null,
+        "topic_name": null,
+        "sources": [
+          {
+            "id": 335,
+            "url": "https://www.pardafas.com/2024/07/11/87271/"
+          },
+          {
+            "id": 336,
+            "url": "https://khabarhub.com/2024/11/659061/"
+          },
+          {
+            "id": 337,
+            "url": "https://www.setopati.com/social/333993"
+          },
+          {
+            "id": 338,
+            "url": "https://deshsanchar.com/2024/07/11/936209/"
+          }
+        ],
+        "number_of_followers": 0,
+        "number_of_related_news": 0
+      },
+      {
+        "id": 61,
+        "newsDate": "2024-07-11T13:39:35+05:45",
+        "category": "National",
+        "imageFrom": "",
+        "image": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/travel-carefully-on-roads-during-monsoon-nepal-07-11-2024.png",
+        "imageUrl": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/travel-carefully-on-roads-during-monsoon-nepal-07-11-2024.png",
+        "shortDescription": "नेपाल प्रहरीले मनसुनी वर्षा जारी रहेको र देशका विभिन्न क्षेत्रमा राजमार्गमा अवरोध भइरहेकाले बुझेरमात्रै लामो यात्रामा निस्किन अनुरोध गरेको छ। प्रहरीका अनुसार मनसुनका कारण अविरल वर्षापछि विभिन्न स्थानमा आएको बाढी तथा पहिरोले सडक अवरुद्ध भएको ठाउँठाउँमा भत्किएका, भासिएकाले दर्जनौँ सडक अझै खुलेको छैन ।",
+        "slug": "travel-carefully-on-roads-during-monsoon-nepal",
+        "title": "नेपाल प्रहरीको सडकको अवस्था बुझेर मात्रै यात्रा गर्न अनुरोध",
+        "is_image_public": true,
+        "is_trending": false,
+        "topic": null,
+        "topic_name": null,
+        "sources": [
+          {
+            "id": 295,
+            "url": "https://ekantipur.com/news/2024/07/11/police-request-to-travel-only-after-understanding-the-road-conditions-21-15.html"
+          },
+          {
+            "id": 296,
+            "url": "https://avenues.tv/news/detail/5750/"
+          },
+          {
+            "id": 297,
+            "url": "https://ujyaaloonline.com/story/55719"
+          },
+          {
+            "id": 298,
+            "url": "https://risingnepaldaily.com/news/45623"
+          }
+        ],
+        "number_of_followers": 0,
+        "number_of_related_news": 0
+      },
+      {
+        "id": 62,
+        "newsDate": "2024-07-11T13:49:30+05:45",
+        "category": "Local",
+        "imageFrom": "Onlinekhabar",
+        "image": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/women-injured-from-bear-attack-nepal-07-11-2024.png",
+        "imageUrl": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/women-injured-from-bear-attack-nepal-07-11-2024.png",
+        "shortDescription": "दाङको देउखुरी लमही नगरपालिका वडा नम्बर ६ स्थित कर्री सामुदायिक वन क्षेत्रमा च्याउ टिप्ने क्रममा भालुको आक्रमणबाट एक महिला गम्भीर घाइते भएकी छन्। उनको अनुहारमा गम्भीर चोट लागेको छ भने दुवै हात भाँचिएको छ । घर्तीको लमही अस्पतालमा प्राथमिक उपचारपछि थप उपचारका लागि बुटवल लगिएको छ ।",
+        "slug": "women-injured-from-bear-attack-nepal",
+        "title": "भालुको आक्रमणबाट एक महिला गम्भीर घाइते",
+        "is_image_public": true,
+        "is_trending": false,
+        "topic": null,
+        "topic_name": null,
+        "sources": [
+          {
+            "id": 299,
+            "url": "https://www.onlinekhabar.com/2024/07/1507738"
+          },
+          {
+            "id": 300,
+            "url": "https://deshsanchar.com/2024/07/11/936172/"
+          },
+          {
+            "id": 301,
+            "url": "https://kantipurtv.com/news/2024/07/11/1720666776.html"
+          },
+          {
+            "id": 302,
+            "url": "https://www.ratopati.com/story/436314/woman-seriously-injured-in-bear-attack"
+          }
+        ],
+        "number_of_followers": 0,
+        "number_of_related_news": 0
+      },
+      {
+        "id": 63,
+        "newsDate": "2024-07-11T14:45:51+05:45",
+        "category": "Local",
+        "imageFrom": "",
+        "image": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/landslide-caused-womens-dead-in-baglung-nepal-07-11-2024.png",
+        "imageUrl": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/landslide-caused-womens-dead-in-baglung-nepal-07-11-2024.png",
+        "shortDescription": "बागलुङ नगरपालिका–७ तितौरेमा राती घर माथिबाट पहिरो खस्दा पुरिएर ५५ वर्षीय खिलकुमारी शर्माको मृत्यु भएको हो । घरमा एक्लै बस्दै आएकी उनलाई राति खसेको पहिरोले पुरेको वडाध्यक्ष मेघनाथ गैरेले जानकारी दिए। बिहीबार बिहान छिमेकीले थाहा पाएपछि प्रहरी र जनप्रतिनिधिलाई खबर गरेका थिए।",
+        "slug": "landslide-caused-womens-dead-in-baglung-nepal",
+        "title": "बागलुङमा पहिरोले घर पुरिँदा १ जनाको मृत्यु",
+        "is_image_public": true,
+        "is_trending": false,
+        "topic": null,
+        "topic_name": null,
+        "sources": [
+          {
+            "id": 303,
+            "url": "https://www.ukaalo.com/news/20240711-landslide-bagalung-death/18709"
+          },
+          {
+            "id": 304,
+            "url": "https://deshsanchar.com/2024/07/11/936183/"
+          },
+          {
+            "id": 305,
+            "url": "https://kantipurtv.com/news/2024/07/11/1720668629.html"
+          },
+          {
+            "id": 306,
+            "url": "https://shilapatra.com/detail/140527"
+          },
+          {
+            "id": 307,
+            "url": "https://www.setopati.com/social/333986"
+          },
+          {
+            "id": 308,
+            "url": "https://nepalwatch.com/2024/07/11/171448"
+          }
+        ],
+        "number_of_followers": 0,
+        "number_of_related_news": 0
+      },
+      {
+        "id": 64,
+        "newsDate": "2024-07-11T15:30:33+05:45",
+        "category": "Crime",
+        "imageFrom": "",
+        "image": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/man-found-dead-in-chicken-farm-nepal-07-11-2024.png",
+        "imageUrl": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/man-found-dead-in-chicken-farm-nepal-07-11-2024.png",
+        "shortDescription": "बिहीबार बिहान करिब साढे १० बजे मोरङको सुन्दरहरैँचा नगरपालिका-१ स्थित कुखुरा फर्मभित्र एक पुरूषको शव फेला परेको जिल्ला प्रहरी कार्यालयका प्रमुख एसपी नवराज कार्कीले जानकारी दिए। मोरङको हत्या भएको  पुरूष कुखुरा फर्मका सञ्चालक हुन्।",
+        "slug": "man-found-dead-in-chicken-farm-nepal",
+        "title": "कुखुरा फर्मभित्र सञ्चालकको हत्या",
+        "is_image_public": true,
+        "is_trending": false,
+        "topic": null,
+        "topic_name": null,
+        "sources": [
+          {
+            "id": 309,
+            "url": "https://www.setopati.com/social/334002"
+          },
+          {
+            "id": 310,
+            "url": "https://www.onlinekhabar.com/2024/07/1507748"
+          },
+          {
+            "id": 311,
+            "url": "https://www.ratopati.com/story/436374"
+          },
+          {
+            "id": 312,
+            "url": "https://www.drishtinews.com/archives/330697"
+          },
+          {
+            "id": 313,
+            "url": "https://www.nayapage.com/%E0%A4%AE%E0%A5%8B%E0%A4%B0%E0%A4%99%E0%A4%AE%E0%A4%BE-%E0%A4%95%E0%A5%81%E0%A4%96%E0%A5%81%E0%A4%B0%E0%A4%BE-%E0%A4%AB%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%AD%E0%A4%BF%E0%A4%A4%E"
+          }
+        ],
+        "number_of_followers": 0,
+        "number_of_related_news": 0
+      },
+      {
+        "id": 65,
+        "newsDate": "2024-07-11T15:50:07+05:45",
+        "category": "Local",
+        "imageFrom": "khabarhub",
+        "image": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/jam-opened-in-prithvi-highway-nepal-07-11-2024.png",
+        "imageUrl": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/jam-opened-in-prithvi-highway-nepal-07-11-2024.png",
+        "shortDescription": "पहिरोका कारण अवरुद्ध बनेको पृथ्वी राजमार्ग एकतर्फी रुपमा खुलेको छ। चितवनको इच्छाकामना–३ मौवाखोला नजिकै आज बिहान पहिरो खस्दा राजमार्गमा पूर्णरुपमा यातायात अवरुद्ध भएको थियो। अहिले पहिरो पन्छाइ एकतर्फी यातायात सञ्चालनमा ल्याएको छ।",
+        "slug": "jam-opened-in-prithvi-highway-nepal",
+        "title": "अवरुद्ध रहेकाे पृथ्वी राजमार्ग एकतर्फी खुल्यो",
+        "is_image_public": true,
+        "is_trending": false,
+        "topic": null,
+        "topic_name": null,
+        "sources": [
+          {
+            "id": 314,
+            "url": "https://khabarhub.com/2024/11/659063/"
+          },
+          {
+            "id": 315,
+            "url": "https://kathmandupress.com/detail/109902"
+          },
+          {
+            "id": 316,
+            "url": "https://ujyaaloonline.com/story/104045/2024/7/11/prithvi-highway-was-opened-one-way"
+          },
+          {
+            "id": 317,
+            "url": "https://thehimalayantimes.com/nepal/one-way-traffic-resumes-on-prithvi-highway"
+          },
+          {
+            "id": 318,
+            "url": "https://thehimalayantimes.com/nepal/one-way-traffic-resumes-on-prithvi-highway"
+          },
+          {
+            "id": 319,
+            "url": "https://myrepublica.nagariknetwork.com/news/one-way-traffic-resumes-on-prithvi-highway-1/"
+          },
+          {
+            "id": 320,
+            "url": "https://www.nepalnews.com/s/nation/one-way-traffic-resumes-on-prithvi-highway"
+          }
+        ],
+        "number_of_followers": 0,
+        "number_of_related_news": 0
+      },
+      {
+        "id": 66,
+        "newsDate": "2024-07-11T16:12:49+05:45",
+        "category": "politics",
+        "imageFrom": "",
+        "image": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/congress-to-vote-against-pm-dahal-nepal-07-11-2024.png",
+        "imageUrl": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/congress-to-vote-against-pm-dahal-nepal-07-11-2024.png",
+        "shortDescription": "कांग्रेसका प्रमुख सचेतक रमेश लेखकले प्रधानमन्त्रीले राख्ने प्रस्तावको विपक्षमा मत दिन आफ्ना सांसदहरूलाई ह्वीप जारी गरेका हुन्। प्रधानमन्त्री प्रचण्डले भोलि २८ गते विश्वासको मत लिने तयारी गरेका छन् ।",
+        "slug": "congress-to-vote-against-pm-dahal-nepal",
+        "title": "प्रधानमन्त्रीलाई विश्वासको मत नदिन कांग्रेस",
+        "is_image_public": true,
+        "is_trending": false,
+        "topic": null,
+        "topic_name": null,
+        "sources": [
+          {
+            "id": 321,
+            "url": "https://www.onlinekhabar.com/2024/07/1507740"
+          },
+          {
+            "id": 322,
+            "url": "https://english.khabarhub.com/2024/11/364939/"
+          },
+          {
+            "id": 323,
+            "url": "https://www.theannapurnaexpress.com/story/49664/"
+          },
+          {
+            "id": 324,
+            "url": "https://en.setopati.com/political/163366"
+          },
+          {
+            "id": 325,
+            "url": "https://ekantipur.com/news/2024/07/11/congress-whip-not-to-give-vote-of-confidence-to-prime-minister-15-40.html"
+          },
+          {
+            "id": 326,
+            "url": "https://newsofnepal.com/2024/07/11/655209/"
+          },
+          {
+            "id": 327,
+            "url": "https://himalpress.com/2024/07/150973/"
+          },
+          {
+            "id": 328,
+            "url": "https://lokaantar.com/story/260306/2024/7/11/main-news/congress-"
+          },
+          {
+            "id": 329,
+            "url": "https://www.sutranews.com/219930/07/11/"
+          }
+        ],
+        "number_of_followers": 0,
+        "number_of_related_news": 0
+      },
+      {
+        "id": 67,
+        "newsDate": "2024-07-11T16:26:14+05:45",
+        "category": "Nepse",
+        "imageFrom": "",
+        "image": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/Nepse-nepal-stock-exchange-07-11-2024.png",
+        "imageUrl": "https://true-space.sgp1.cdn.digitaloceanspaces.com/media/Nepse-nepal-stock-exchange-07-11-2024.png",
+        "shortDescription": "नेपाल स्टक एक्सचेन्ज (नेप्से) बिहीबार २९ दशमलव २१ अंकले बढेर २ हजार २०४ दशमलव ६१ अंकमा बन्द भएको छ । त्यस्तै, सेन्सेटिभ परिसूचक ५ दशमलव ९० अंकले बढेर ३९१.६६ अंकमा बन्द भएको छ । ३३१ कम्पनीको २०,२३७,७८० कित्ता शेयर ७ अर्ब ८ करोड रुपैयाँमा कारोबार भएको छ ।",
+        "slug": "Nepse-nepal-stock-exchange",
+        "title": "बिहीबार नेप्से २९.२१ अंकले बढेको छ",
+        "is_image_public": true,
+        "is_trending": false,
+        "topic": null,
+        "topic_name": null,
+        "sources": [
+          {
+            "id": 330,
+            "url": "https://www.theannapurnaexpress.com/story/49665/"
+          },
+          {
+            "id": 331,
+            "url": "https://english.onlinekhabar.com/nepse-share-market-surpasses-2200-points-after-one-year.html"
+          },
+          {
+            "id": 332,
+            "url": "https://nagariknews.nagariknetwork.com/economy/1441723-1720692228.html"
+          },
+          {
+            "id": 333,
+            "url": "https://www.ratopati.com/story/436394"
+          },
+          {
+            "id": 334,
+            "url": "https://annapurnapost.com/story/461116/"
+          }
+        ],
+        "number_of_followers": 0,
+        "number_of_related_news": 0
+      }
+    ]
+  }
